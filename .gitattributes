@@ -1,3 +1,0 @@
-models/knn_cv_0 filter=lfs diff=lfs merge=lfs -text
-models/rf_cv_0 filter=lfs diff=lfs merge=lfs -text
-dataset/feature_selection_dataset.tar.gz filter=lfs diff=lfs merge=lfs -text
