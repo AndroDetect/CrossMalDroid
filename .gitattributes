@@ -1,1 +1,2 @@
 dataset/train/* filter=lfs diff=lfs merge=lfs -text
+models/KNN filter=lfs diff=lfs merge=lfs -text
