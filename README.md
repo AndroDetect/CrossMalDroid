@@ -1,2 +1,0 @@
-# AndroidDetect
-detect android malware
