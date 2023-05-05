@@ -10,7 +10,7 @@ The dataset was divided into a train set and a test set. There are 455 columns: 
 ## Malware Families
 The families of the dataset obtained by euphony are stored in a `json` file:
 ```
-"f7888a72146e173317ad88e417f8e85a044f9c8208e9d9cbef894c3ce57102d1": "artemis", "6d98e89888eb41c9a2c24d8dd4f292d4d84d7221c21efa101f13ab0dfa678a55": "jiagu", "8ccb4c212bf800b25937a05edd5aef0412ffd3ce47d51f9c70f97e6137f2376d": "skymobi", "02bc3f1eb1922eae9ec52068c4a9a2ec6391570f79acafa8c155e16936ac5327": "boqx", "89dcd81b007c3f0b8ea9f54393a7e4d0d5e28d9807ed5fc54377813d6a6aac12": "artemis", 
+{"f7888a72146e173317ad88e417f8e85a044f9c8208e9d9cbef894c3ce57102d1": "artemis", "6d98e89888eb41c9a2c24d8dd4f292d4d84d7221c21efa101f13ab0dfa678a55": "jiagu", "8ccb4c212bf800b25937a05edd5aef0412ffd3ce47d51f9c70f97e6137f2376d": "skymobi", "02bc3f1eb1922eae9ec52068c4a9a2ec6391570f79acafa8c155e16936ac5327": "boqx", "89dcd81b007c3f0b8ea9f54393a7e4d0d5e28d9807ed5fc54377813d6a6aac12": "artemis"} 
 ```
 
 ## Models
