@@ -24,7 +24,7 @@ For instance, to evaluate the models on the test set, run as:
 pip install -r requirements.txt 
 ```
 
-### Evaluate
+### Evaluation
 Enter the src directory:
 ```shell
 cd src
